@@ -1,0 +1,2 @@
+class MachineSnacksController < ApplicationController
+end
